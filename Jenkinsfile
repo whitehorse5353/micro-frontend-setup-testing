@@ -1,7 +1,7 @@
 pipeline {
   agent {
     node {
-      label 'node_pre_build'
+      label 'master'
     }
 
   }
