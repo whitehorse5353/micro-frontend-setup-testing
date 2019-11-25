@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git(url: 'https://github.com/whitehorse5353/micro-frontend-setup-testing', branch: 'master', changelog: true)
+        git(url: 'https://github.com/whitehorse5353/micro-frontend-setup-testing', branch: 'release/*', changelog: true)
       }
     }
 
