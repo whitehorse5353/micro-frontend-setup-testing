@@ -1,0 +1,22 @@
+{
+  "name": "micro-frontend-setup-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitehorse5353/micro-frontend-setup-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitehorse5353/micro-frontend-setup-testing/issues"
+  },
+  "homepage": "https://github.com/whitehorse5353/micro-frontend-setup-testing#readme",
+  "devDependencies": {
+    "lerna": "^3.19.0"
+  }
+}
